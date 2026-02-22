@@ -1,35 +1,32 @@
-<h1 align="center">Hi 👋, I'm Divyadharshini R</h1>
-<h3 align="center">B.E CSE Student | Front-End Developer | React Learner 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Divyadharshini+R;B.E+CSE+Student;Front-End+Developer;React+Learner+🚀" />
+</h1>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 B.E Computer Science Engineering Student
-- 💻 Interested in Web Development
-- 🌱 Currently Learning React & Advanced JavaScript
-- 🚀 Passionate about building real-world projects
+- 💻 Passionate Front-End Developer
+- 🌱 Currently Learning React
+- 🚀 Building Real World Projects
 
 ---
 
 ### 🛠️ Skills
-- HTML
-- CSS
-- JavaScript
-- React (Learning)
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
 
 ---
 
-### 📌 Projects
-- 🤖 AI Chatbot Website
-- 🌐 Personal Portfolio Website
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyadharshinirid44&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: (Add your link)
-- Email: (Add your mail id)
-
----
-
-⭐ Thank you for visiting my profile!
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadharshinirid44&theme=tokyonight" />
+</p>
