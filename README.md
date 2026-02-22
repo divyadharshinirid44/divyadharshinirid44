@@ -29,3 +29,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
+## 🌐 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/divya-dharshini-r-33b7a62bb">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:divyadharshinird44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ From divyadharshinirid44(https://github.com/divyadharshinirid44)
