@@ -42,3 +42,57 @@
 ---
 
 ⭐ From divyadharshinirid44(https://github.com/divyadharshinirid44)
+# 🏥 Tamil Voice Based Smart Hospital Chatbot
+
+## 📌 Overview
+Tamil Voice Based Smart Hospital Chatbot is a web-based healthcare assistant developed using HTML, CSS, and JavaScript.  
+It allows users to interact with hospital services through Tamil voice commands, making healthcare support more accessible for Tamil-speaking and rural users.
+
+## 🎯 Aim of the Project
+To build a voice-enabled smart chatbot system that understands Tamil speech input and provides appropriate hospital-related responses.
+
+## 💡 Features
+- 🎤 Tamil Voice Recognition
+- 🔊 Voice Response System
+- 🏥 Hospital Information Support
+- 📅 Appointment Guidance
+- 💊 Basic Health Queries Assistance
+- 🌐 Simple & User-Friendly Interface
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Web Speech API (Speech Recognition & Speech Synthesis)
+
+## ⚙️ How It Works
+1. User clicks the microphone button.
+2. The system captures Tamil voice input.
+3. Voice is converted into text.
+4. Chatbot processes the query.
+5. Response is displayed and spoken back in Tamil.
+
+## 📂 Project Structure
+/project-folder  
+│── index.html  
+│── style.css  
+│── script.js  
+
+## 🚀 How to Run
+1. Clone or download this repository.
+2. Open `index.html` in Google Chrome.
+3. Click the mic button and start speaking in Tamil.
+
+## 🔮 Future Improvements
+- Online appointment booking integration  
+- Hospital database connectivity  
+- AI-based medical suggestion system  
+- Multi-language support  
+
+## 👩‍💻 Developer
+Divyadharshini R  
+B.E Computer Science and Engineering  
+
+---
+
+⭐ If you found this project useful, please give it a star!
